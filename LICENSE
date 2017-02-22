@@ -15,7 +15,7 @@ IN THIS CLAUSE, CSIRO INCLUDES ANY THIRD PARTY AUTHOR OR OWNER OF ANY PART OF TH
 Third Party Components
 The following third party components are distributed with the Software.  You agree to comply with the license terms for these components as part of accessing the Software.  Other third party software may also be identified in separate files distributed with the Software.
 ___________________________________________________________________
-Arduino NATS Streaming Client (https://github.com/davidsai/Arduino-nats-streaming-client)
+Arduino NATS Streaming Client (https://github.com/data61/Arduino-nats-streaming-client)
 
 This library is build based on joshglendenning/arduino-nats, a library for communicating with a NATS server (https://github.com/joshglendenning/arduino-nats).
 This software is licensed under MIT license.
